@@ -6,7 +6,7 @@
 
 ###### Workshop schedule
 
-Thursday, 4th July 2024, 16:00-20:00 (with breaks)
+Thursday, 26th September 2024, 15:30-20:00 (with breaks)
 
 ###### Workshop location
 
@@ -27,7 +27,7 @@ It is recommended that attendees bring a laptop with a working installation of [
 2. **Large-scale structure** of real networks and **graph models** (60 min)
 3. Measures of **node importance** and **link analysis** algorithms (45 min)
 4. Network **community structure**, blockmodeling and **core-periphery** (60 min)
-5. Network **visualization**, **machine learning** and some applications (30 min)
+5. Network **visualization**, **machine learning** and some applications (45 min)
 
 + **Hands-on**: Abstraction, centrality, communities, visualization, learning etc. 
 
