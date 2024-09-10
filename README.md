@@ -23,11 +23,11 @@ The workshop is based on the master's level course [Network Analysis](https://lo
 It is recommended that attendees bring a laptop with a working installation of [Python](http://www.python.org), and in particular [NetworkX](http://networkx.github.io), [CDlib](http://cdlib.readthedocs.io) and [node2vec](https://github.com/eliorc/node2vec) packages. Alternatively, you can work with any other network analysis package such as [igraph](http://igraph.org), [graph-tool](http://graph-tool.skewed.de) or [SNAP.py](http://snap.stanford.edu/snappy/). For visualization of smaller networks, it can be useful to have an installation of some network analysis software such as [Gephi](http://gephi.org) or [visone](http://visone.info).
 
 ###### Tentative syllabus
-1. From classical graph theory to **modern network science** (15 min)
-2. **Large-scale structure** of real networks and **graph models** (60 min)
-3. Measures of **node importance** and **link analysis** algorithms (45 min)
-4. Network **community structure**, blockmodeling and **core-periphery** (60 min)
-5. Network **visualization**, **machine learning** and some applications (45 min)
+1. From classical graph theory to **modern network science** (20 min)
+2. **Large-scale structure** of real networks and **graph models** (40+20 min)
+3. Measures of **node importance** and **link analysis** algorithms (30+20 min)
+4. Network **community structure**, blockmodeling and **core-periphery** (40+20 min)
+5. Network **visualization**, **machine learning** and some applications (30+10 min)
 
 + **Hands-on**: Abstraction, centrality, communities, visualization, learning etc. 
 
@@ -225,6 +225,7 @@ Network **community structure**, blockmodeling and **core-periphery structure**.
 + Holme, P., [Core-periphery organization of complex networks](https://arxiv.org/abs/physics/0506035), _Phys. Rev. E_ **72**(4), 46111 (2005).
 + Newman, M.E.J. & Leicht, E.A., [Mixture models and exploratory analysis in networks](https://arxiv.org/abs/physics/0611158), _P. Natl. Acad. Sci. USA_ **104**(23), 9564 (2007).
 + Raghavan, U.N., Albert, R. & Kumara, S., [Near linear time algorithm to detect community structures in large-scale networks](https://arxiv.org/abs/0709.2938), _Phys. Rev. E_ **76**(3), 036106 (2007).
++ Traag, V.A. & Šubelj, L., [Large network community detection by fast label propagation](https://arxiv.org/abs/2209.13338), _Sci. Rep._ **13**, 2701 (2023).
 + Rosvall, M. & Bergstrom, C.T., Maps of random walks on complex networks reveal community structure, _P. Natl. Acad. Sci. USA_ **105**(4), 1118-1123 (2008).
 + Blondel, V.D., Guillaume, J.-L. et al., [Fast unfolding of communities in large networks](https://arxiv.org/abs/0803.0476), _J. Stat. Mech._, P10008 (2008).
 + Traag, V.A., Waltman, L. & Van Eck, N.J., [From Louvain to Leiden: Guaranteeing well-connected communities](https://www.nature.com/articles/s41598-019-41695-z), _Sci. Rep._ **9**, 5233 (2019).
