@@ -114,6 +114,7 @@ Classical **graph theory** and modern **network analysis**. **Random graphs** an
 
 ###### Hands-on analysis
 
++ Quick tutorial on NetworkX library ([networkx-tutorial.ipynb](https://github.com/lovre/netpy24/blob/master/scripts/networkx-tutorial.ipynb))
 + [**Network structure and random graphs**](https://github.com/lovre/netpy24/blob/master/labs/structure.pdf) ([structure-starter.py](https://github.com/lovre/netpy24/blob/master/scripts/structure-starter.py))
 
 ###### Book chapters
