@@ -1,0 +1,42 @@
+          Graph | 'karate'
+           Type | '---'
+          Nodes | 34 (0)
+          Edges | 78 (0)
+         Degree | 4.6 (1, 17)
+     Components | 100.0% (1)
+
+          Graph | 'karate'
+      Algorithm | 'betweenness' (100x)
+       Clusters | 2.0 x 17 (55.9%)
+              Q | 0.360
+            NMI | 0.836
+           Time | 5.0 sec
+
+          Graph | 'dolphins'
+           Type | '---'
+          Nodes | 62 (0)
+          Edges | 159 (0)
+         Degree | 5.1 (1, 12)
+     Components | 100.0% (1)
+
+          Graph | 'dolphins'
+      Algorithm | 'betweenness' (100x)
+       Clusters | 2.0 x 31 (66.1%)
+              Q | 0.379
+            NMI | 0.889
+           Time | 9.9 sec
+
+          Graph | 'women'
+           Type | '---'
+          Nodes | 32 (0)
+          Edges | 89 (0)
+         Degree | 5.6 (2, 14)
+     Components | 100.0% (1)
+
+          Graph | 'women'
+      Algorithm | 'betweenness' (100x)
+       Clusters | 2.0 x 16 (56.2%)
+              Q | 0.306
+            NMI | 0.328
+           Time | 7.0 sec
+
