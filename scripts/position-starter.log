@@ -1,0 +1,25 @@
+          Graph | 'imdb'
+           Type | '---'
+          Nodes | 17,577 (0)
+          Edges | 287,074 (0)
+         Degree | 32.7 (1, 784)
+     Components | 99.3% (19)
+
+          Graph | 'imdb'
+     Centrality | 'degree'
+     0.04460628 | 'Davis, Mark (V)' (784)
+     0.03470642 | 'Sanders, Alex (I)' (610)
+     0.03408056 | 'North, Peter (I)' (599)
+     0.03322713 | 'Marcus, Mr.' (584)
+     0.03191853 | 'Tedeschi, Tony' (561)
+     0.03157715 | 'Dough, Jon' (555)
+     0.03100819 | 'Stone, Lee (II)' (545)
+     0.03032544 | 'Voyeur, Vince' (533)
+     0.02844788 | 'Lawrence, Joel (II)' (500)
+     0.02804961 | 'Steele, Lexington' (493)
+     0.02787893 | 'Ashley, Jay' (490)
+     0.02702549 | 'Boy, T.T.' (475)
+     0.02679791 | 'Cannon, Chris (III)' (471)
+     0.02679791 | 'Jeremy, Ron' (471)
+     0.02634274 | 'Bune, Tyce' (463)
+
