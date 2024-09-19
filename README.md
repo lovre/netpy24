@@ -6,7 +6,7 @@
 
 ###### Workshop schedule
 
-Thursday, 26th September 2024, 15:30-20:00 (with breaks)
+Thursday, 3rd October 2024, 15:30-20:00 (with breaks)
 
 ###### Workshop location
 
