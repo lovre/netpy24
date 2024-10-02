@@ -86,7 +86,7 @@ Introduction of networks and selected **motivational examples**. From **classica
 
 + Barabási, A.-L., The network takeover, _Nat. Phys._ **8**(1), 14-16 (2012).
 + Motter, A.E. & Yang, Y., The unfolding and control of network cascades, _Phys. Today_ **70**(1), 33-39 (2017).
-+ Cramer, C., Porter, M.A. et al., [_Network Literacy: Essential Concepts and Core Ideas_](https://sites.google.com/a/binghamton.edu/netscied/Network-Literacy-low-res.pdf?attredirects=0) (Creative Commons Licence, 2015).
++ Cramer, C., Porter, M.A. et al., [_Network Literacy: Essential Concepts and Core Ideas_](https://sites.google.com/a/binghamton.edu/netscied/teaching-learning/network-concepts) (Creative Commons Licence, 2015).
 
 ###### Selected papers
 
